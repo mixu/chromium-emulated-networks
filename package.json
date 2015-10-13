@@ -1,0 +1,23 @@
+{
+  "name": "chromium-emulated-networks",
+  "version": "1.0.0",
+  "description": "The list of emulated network conditions from Chromium's devtools as JSON. Useful for configuring a specific latency and bandwidth profile.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixu/chromium-emulated-networks.git"
+  },
+  "keywords": [
+    "chromium",
+    "network"
+  ],
+  "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mixu/chromium-emulated-networks/issues"
+  },
+  "homepage": "https://github.com/mixu/chromium-emulated-networks#readme"
+}
