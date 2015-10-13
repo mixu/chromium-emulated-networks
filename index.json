@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Offline",
+    "value": {
+      "throughput": 0,
+      "latency": 0
+    }
+  },
+  {
+    "title": "GPRS",
+    "value": {
+      "throughput": 6400,
+      "latency": 500
+    }
+  },
+  {
+    "title": "Regular 2G",
+    "value": {
+      "throughput": 32000,
+      "latency": 300
+    }
+  },
+  {
+    "title": "Good 2G",
+    "value": {
+      "throughput": 57600,
+      "latency": 150
+    }
+  },
+  {
+    "title": "Regular 3G",
+    "value": {
+      "throughput": 96000,
+      "latency": 100
+    }
+  },
+  {
+    "title": "Good 3G",
+    "value": {
+      "throughput": 196608,
+      "latency": 40
+    }
+  },
+  {
+    "title": "Regular 4G",
+    "value": {
+      "throughput": 524288,
+      "latency": 20
+    }
+  },
+  {
+    "title": "DSL",
+    "value": {
+      "throughput": 262144,
+      "latency": 5
+    }
+  },
+  {
+    "title": "WiFi",
+    "value": {
+      "throughput": 3932160,
+      "latency": 2
+    }
+  }
+]
